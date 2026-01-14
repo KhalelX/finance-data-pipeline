@@ -5,7 +5,7 @@ Pipeline automatizado para **coleta, transformação, armazenamento e análise d
 
 ---
 
-## 🚀 Visão Geral
+##  Visão Geral
 Este projeto implementa um **pipeline ETL financeiro** que:
 - Coleta dados de mercado via API
 - Realiza limpeza e transformação dos dados
@@ -16,7 +16,7 @@ O objetivo é demonstrar habilidades práticas em **Python, dados financeiros e 
 
 ---
 
-## 🧠 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 - Python 3.10
 - Pandas
 - NumPy
@@ -29,7 +29,7 @@ O objetivo é demonstrar habilidades práticas em **Python, dados financeiros e 
 
 ---
 
-## 🏗 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```text
 Finance-data-pipeline/
