@@ -1,4 +1,5 @@
-#  Finance Data Pipeline
+# Finance Data Pipeline
+![CI](https://github.com/KhalelX/finance-data-pipeline/actions/workflows/pipeline.yml/badge.svg)
 
 Pipeline automatizado para **coleta, transformação, armazenamento e análise de dados financeiros**, desenvolvido em Python com foco em **Análise de Dados e DevOps**.
 
@@ -28,12 +29,13 @@ O objetivo é demonstrar habilidades práticas em **Python, dados financeiros e 
 
 ---
 
-## 🏗 Estrutura do Projeto
+##  Estrutura do Projeto
 
 
 ---
 
 ## ▶️ Como Executar o Projeto
+
+Instalação (lista simples):
 ```bash
 python -m pip install -r requirements.txt
-python main.py
